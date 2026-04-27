@@ -7,6 +7,12 @@ Requerimientos:
 5. El sistema permitirá al representante físico y al gerente consultar los valores de la caja menor.
 6. El sistema permitirá a la costurera consultar los pedidos asignados.
 7. El sistema asignará pedidos a la costurera.
-
-
+ANDRES FELIPE MORENO SIERRA
+1. El sistema validará el pago realizado por el cliente.
+2. El sistema permitirá al representante físico consultar los pagos realizados.
+3. El sistema permitirá al representante físico consultar el inventario disponible.
+4. El sistema actualizará automáticamente el inventario después de cada venta.
+5. El sistema registrará los pedidos realizados por los clientes.
+6. El sistema permitirá al cliente consultar el estado de su pedido.
+7. El sistema permitirá al representante físico hacer seguimiento de los pedidos.
 
