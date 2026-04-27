@@ -15,4 +15,12 @@ ANDRES FELIPE MORENO SIERRA
 5. El sistema registrará los pedidos realizados por los clientes.
 6. El sistema permitirá al cliente consultar el estado de su pedido.
 7. El sistema permitirá al representante físico hacer seguimiento de los pedidos.
+ADRIAN CAMILO RODRIGUEZ CALDAS
+1.El sistema permitira al cliente visualizar el catalogo de productos disponibles.
+2. El sistema permitira al cliente seleccionar un diseño existente.
+3. El sistema permitira al cliente elegir un diseño existente.
+4. El sistema permitirá al cliente agregar productos al carrito de compra.
+5. El sistema permitirá al cliente confirmar la compra de productos seleccionados.
+6. El sistema generará un registro de la venta realizada.
+7.El sistema permitirá al cliente ingresar datos de pago.
 
