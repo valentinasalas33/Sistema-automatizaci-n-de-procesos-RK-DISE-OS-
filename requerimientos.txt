@@ -1,0 +1,30 @@
+VALENTINA SALAS RAMIREZ
+Requerimientos:
+1. El sistema generará reportes financieros del periodo seleccionado.
+2. El sistema permitirá al gerente consultar egresos mensuales.
+3. El sistema permitirá al gerente consultar ingresos mensuales.
+4. El sistema permitirá al representante físico y al gerente editar los valores de la caja menor.
+5. El sistema permitirá al representante físico y al gerente consultar los valores de la caja menor.
+6. El sistema permitirá a la costurera consultar los pedidos asignados.
+7. El sistema asignará pedidos a la costurera.
+JUAN DAVID VELAZCO 
+1. El sistema validará el pago realizado por el cliente.
+2. El sistema permitirá al representante físico consultar los pagos realizados.
+3. El sistema permitirá al representante físico consultar el inventario disponible.
+4. El sistema actualizará automáticamente el inventario después de cada venta.
+5. El sistema registrará los pedidos realizados por los clientes.
+6. El sistema permitirá al cliente consultar el estado de su pedido.
+7. El sistema permitirá al representante físico hacer seguimiento de los pedidos.
+ADRIAN CAMILO RODRIGUEZ CALDAS
+1.El sistema permitira al cliente visualizar el catalogo de productos disponibles.
+2. El sistema permitira al cliente seleccionar un diseño existente.
+3. El sistema permitira al cliente elegir un diseño existente.
+4. El sistema permitirá al cliente agregar productos al carrito de compra.
+5. El sistema permitirá al cliente confirmar la compra de productos seleccionados.
+6. El sistema generará un registro de la venta realizada.
+7.El sistema permitirá al cliente ingresar datos de pago.
+
+LOS COLORES QUE VAMOS A USAR SON:
+prmario #2757f5
+secundario #070708
+terciario #ebebf0
